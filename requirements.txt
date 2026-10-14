@@ -1,2 +1,0 @@
-twikit==2.3.35
-requests>=2.31.0
