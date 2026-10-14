@@ -1,2 +1,2 @@
-twikit>=2.0.0
+twikit==2.3.35
 requests>=2.31.0
